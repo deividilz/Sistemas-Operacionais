@@ -4,7 +4,7 @@
 
     TRABALHO: encontrar uma forma de consertar o deadlock causado pelas threads 
 
-    Como compilar: gcc -o test deadlock_trylock.c -lpthread*/
+    Como compilar: gcc -o test deadlock_trylock.c -lpthread*/ 
 
 
 #include <pthread.h>
