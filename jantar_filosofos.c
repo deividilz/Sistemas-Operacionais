@@ -1,10 +1,13 @@
 /*
 
     UNIVERSIDADE FEDERAL DA FRONTEIRA SUL
-    ALUNO: DEIVIDI LUIZ PINTO DA SILVA
-    SISTEMAS OPERACIONAIS - NOTURNO
+    ALUNO: DEIVIDI LUIZ
+    SISTEMAS OPERACIONAIS
+    TRABALHO: Implementar/resolver o problema do "Jantar dos Filósofos" em linguagem C, no Linux.
 
-    Para executar: gcc -o test jantar_filosofos.c -lpthread
+    Parte do código já estava implementado. 
+
+    Como compilar: gcc -o test jantar_filosofos.c -lpthread
 
 */
 
